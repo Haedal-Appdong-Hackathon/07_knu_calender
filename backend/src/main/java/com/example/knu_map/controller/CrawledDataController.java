@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;
 @RestController
 @Slf4j
+@CrossOrigin(allowedHeaders = "*")
 @RequestMapping("/knu")
 
 public class CrawledDataController {
