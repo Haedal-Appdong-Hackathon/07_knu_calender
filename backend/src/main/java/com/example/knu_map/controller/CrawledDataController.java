@@ -36,4 +36,10 @@ public class CrawledDataController {
         ArrayList<CrawledData> dataList = crawledDataRepository.findByCategory(category);
         return dataList;
     }
+
+
+    @GetMapping("/test")
+    public String hello(){
+        return "서버 연결 성공!";
+    }
 }
