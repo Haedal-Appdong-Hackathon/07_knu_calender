@@ -5,7 +5,7 @@
 
 ## 주제
 
-🏫 달력을 활용한 학교 내 이벤트 알기
+📆 달력을 활용한 학교 내 이벤트 알기
 
 <br>
 
@@ -59,7 +59,7 @@
 
 ## 사진
 <br>
-<p align="center">  <img src="https://github.com/Haedal-Appdong-Hackathon/07_knu_calender/assets/127970981/bfa24854-39d7-4c21-bc67-c5cd430333fc" align="center" width="32%">  <img src="https://github.com/Haedal-Appdong-Hackathon/07_knu_calender/assets/127970981/81f29758-d288-421e-8e2f-159f24374613" align="center" width="32%">  <img src="https://github.com/Haedal-Appdong-Hackathon/07_knu_calender/assets/127970981/221129ad-c131-4520-af23-542ad4c09a2c" align="center" width="32%">  </p>
+<p align="center">  <img src="https://github.com/Haedal-Appdong-Hackathon/07_knu_calender/assets/127970981/bfa24854-39d7-4c21-bc67-c5cd430333fc" align="center" width="32%" height="200">  <img src="https://github.com/Haedal-Appdong-Hackathon/07_knu_calender/assets/127970981/81f29758-d288-421e-8e2f-159f24374613" align="center" width="32%" height="200">  <img src="https://github.com/Haedal-Appdong-Hackathon/07_knu_calender/assets/127970981/221129ad-c131-4520-af23-542ad4c09a2c" align="center" width="32%" height="200">  </p>
 
 
 
